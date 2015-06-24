@@ -24,7 +24,6 @@ namespace Calendario
         {
             InitializeComponent();
             content.Children.Add(Calendario.GetCalendarioAnual(2015));
-            MessageBox.Show("Teste");
         }
     }
 }
